@@ -1,0 +1,3 @@
+C++ is a high-level language. In this language we can use graphics progrmming.
+Java also a high-level language
+Programs written in these langauges system programming can also be possible.
